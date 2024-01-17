@@ -1,0 +1,7 @@
+Mall后台系统API：http://1.14.25.92:8080/doc.html#/home
+Mall搜索系统API：http://1.14.25.92:8081/doc.html#/home
+Mall前台系统API：http://1.14.25.92:8085/doc.html#/home
+
+
+Mall后台系统：http://1.14.25.92/admin   	admin:macro123
+Mall前台系统：http://1.14.25.92/app	test：123456
